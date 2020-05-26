@@ -9,3 +9,14 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.on-stage {
+  border: solid black;
+  width: 300px;
+}
+
+.App-participants {
+  border: solid black;
+  width: 300px;
+}
+
